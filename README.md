@@ -1,25 +1,24 @@
 [![Discord](https://discordapp.com/api/guilds/649703068799336454/widget.png)](https://discordapp.com/invite/KKYw763)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/nathen418/template-repo?style=social)
-![](https://img.shields.io/github/repo-size/nathen418/template-repo?color=Green&style=flat-square)
-![](https://img.shields.io/tokei/lines/github/nathen418/template-repo?style=flat-square)  
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/nathen418/what-in-the-world-is-typescript?style=social)
+![](https://img.shields.io/github/repo-size/nathen418/what-in-the-world-is-typescript?color=Green&style=flat-square)
+![](https://img.shields.io/tokei/lines/github/nathen418/what-in-the-world-is-typescript?style=flat-square)  
 
 # Template Repo 
-- Description: This is a template repository for all new repos that I might create
+- Description: What even is Typescript and how do I use it?
 
 ## Rough outline:
-- Outline here
+- No project goals, just a sandbox where hopes and dreams go to die
 
 ## How to run yourself:
-- Explain that here
+- Uhhh idk, figure it out yourself lol
 
 
 ## End goal of the project:
-- Describe what the goal of the project is
+- Learn typescript stuff enough that I can use it proficiantly I guess
 
 
 ## Credits:
-- Person A
-- Person B
+- [Nate Goldsborough](https://github.com/nathen418)
 
 ## Join my discord server:
 https://dsc.gg/antaresnetwork
