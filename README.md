@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/repo-size/nathen418/what-in-the-world-is-typescript?color=Green&style=flat-square)
 ![](https://img.shields.io/tokei/lines/github/nathen418/what-in-the-world-is-typescript?style=flat-square)  
 
-# Template Repo 
+# What In The World Is Typescript?
 - Description: What even is Typescript and how do I use it?
 
 ## Rough outline:
